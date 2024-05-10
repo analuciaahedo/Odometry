@@ -1,0 +1,35 @@
+[0.885s] Invoking command in '/home/anavale/ros2_ws/src/build/odometry': PYTHONPATH=/home/anavale/ros2_ws/src/build/odometry/prefix_override:/home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/anavale/ros2_ws/src/build/odometry/build
+[1.219s] running develop
+[1.219s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.220s]   warnings.warn(
+[1.425s] Removing /home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages/odometry.egg-link (link to .)
+[1.462s] Invoked command in '/home/anavale/ros2_ws/src/build/odometry' returned '0': PYTHONPATH=/home/anavale/ros2_ws/src/build/odometry/prefix_override:/home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/anavale/ros2_ws/src/build/odometry/build
+[1.466s] Invoking command in '/home/anavale/ros2_ws/src/odometry': PYTHONPATH=/home/anavale/ros2_ws/src/build/odometry/prefix_override:/home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/odometry build --build-base /home/anavale/ros2_ws/src/build/odometry/build install --record /home/anavale/ros2_ws/src/build/odometry/install.log --single-version-externally-managed install_data --force
+[1.781s] running egg_info
+[1.781s] writing ../build/odometry/odometry.egg-info/PKG-INFO
+[1.782s] writing dependency_links to ../build/odometry/odometry.egg-info/dependency_links.txt
+[1.782s] writing entry points to ../build/odometry/odometry.egg-info/entry_points.txt
+[1.782s] writing requirements to ../build/odometry/odometry.egg-info/requires.txt
+[1.782s] writing top-level names to ../build/odometry/odometry.egg-info/top_level.txt
+[1.785s] reading manifest file '../build/odometry/odometry.egg-info/SOURCES.txt'
+[1.785s] adding license file 'LICENSE'
+[1.786s] writing manifest file '../build/odometry/odometry.egg-info/SOURCES.txt'
+[1.786s] running build
+[1.786s] running build_py
+[1.786s] running install
+[1.786s] running install_lib
+[1.787s] creating /home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages/odometry
+[1.787s] copying /home/anavale/ros2_ws/src/build/odometry/build/lib/odometry/odometry.py -> /home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages/odometry
+[1.787s] copying /home/anavale/ros2_ws/src/build/odometry/build/lib/odometry/__init__.py -> /home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages/odometry
+[1.788s] byte-compiling /home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages/odometry/odometry.py to odometry.cpython-310.pyc
+[1.789s] byte-compiling /home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages/odometry/__init__.py to __init__.cpython-310.pyc
+[1.789s] running install_data
+[1.789s] copying resource/odometry -> /home/anavale/ros2_ws/src/install/odometry/share/ament_index/resource_index/packages
+[1.790s] copying package.xml -> /home/anavale/ros2_ws/src/install/odometry/share/odometry
+[1.790s] copying launch/send.launch.py -> /home/anavale/ros2_ws/src/install/odometry/share/odometry/launch
+[1.790s] running install_egg_info
+[1.792s] Copying ../build/odometry/odometry.egg-info to /home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages/odometry-0.0.0-py3.10.egg-info
+[1.793s] running install_scripts
+[1.819s] Installing odometry script to /home/anavale/ros2_ws/src/install/odometry/lib/odometry
+[1.819s] writing list of installed files to '/home/anavale/ros2_ws/src/build/odometry/install.log'
+[1.852s] Invoked command in '/home/anavale/ros2_ws/src/odometry' returned '0': PYTHONPATH=/home/anavale/ros2_ws/src/build/odometry/prefix_override:/home/anavale/ros2_ws/src/install/odometry/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/odometry build --build-base /home/anavale/ros2_ws/src/build/odometry/build install --record /home/anavale/ros2_ws/src/build/odometry/install.log --single-version-externally-managed install_data --force

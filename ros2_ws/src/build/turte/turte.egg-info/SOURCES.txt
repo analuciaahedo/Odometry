@@ -1,0 +1,16 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../build/turte/turte.egg-info/PKG-INFO
+../build/turte/turte.egg-info/SOURCES.txt
+../build/turte/turte.egg-info/dependency_links.txt
+../build/turte/turte.egg-info/entry_points.txt
+../build/turte/turte.egg-info/requires.txt
+../build/turte/turte.egg-info/top_level.txt
+../build/turte/turte.egg-info/zip-safe
+resource/turte
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+turte/__init__.py

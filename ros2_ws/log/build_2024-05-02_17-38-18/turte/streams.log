@@ -1,0 +1,34 @@
+[1.245s] Invoking command in '/home/anavale/ros2_ws/src/turte': PYTHONPATH=/home/anavale/ros2_ws/build/turte/prefix_override:/home/anavale/ros2_ws/install/turte/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turte build --build-base /home/anavale/ros2_ws/build/turte/build install --record /home/anavale/ros2_ws/build/turte/install.log --single-version-externally-managed install_data
+[1.548s] running egg_info
+[1.549s] creating ../../build/turte/turte.egg-info
+[1.549s] writing ../../build/turte/turte.egg-info/PKG-INFO
+[1.550s] writing dependency_links to ../../build/turte/turte.egg-info/dependency_links.txt
+[1.550s] writing entry points to ../../build/turte/turte.egg-info/entry_points.txt
+[1.550s] writing requirements to ../../build/turte/turte.egg-info/requires.txt
+[1.550s] writing top-level names to ../../build/turte/turte.egg-info/top_level.txt
+[1.550s] writing manifest file '../../build/turte/turte.egg-info/SOURCES.txt'
+[1.553s] reading manifest file '../../build/turte/turte.egg-info/SOURCES.txt'
+[1.553s] adding license file 'LICENSE'
+[1.553s] writing manifest file '../../build/turte/turte.egg-info/SOURCES.txt'
+[1.554s] running build
+[1.554s] running build_py
+[1.554s] creating /home/anavale/ros2_ws/build/turte/build
+[1.554s] creating /home/anavale/ros2_ws/build/turte/build/lib
+[1.554s] creating /home/anavale/ros2_ws/build/turte/build/lib/turte
+[1.555s] copying turte/__init__.py -> /home/anavale/ros2_ws/build/turte/build/lib/turte
+[1.555s] running install
+[1.555s] running install_lib
+[1.556s] creating /home/anavale/ros2_ws/install/turte/lib/python3.10/site-packages/turte
+[1.556s] copying /home/anavale/ros2_ws/build/turte/build/lib/turte/__init__.py -> /home/anavale/ros2_ws/install/turte/lib/python3.10/site-packages/turte
+[1.556s] byte-compiling /home/anavale/ros2_ws/install/turte/lib/python3.10/site-packages/turte/__init__.py to __init__.cpython-310.pyc
+[1.557s] running install_data
+[1.557s] creating /home/anavale/ros2_ws/install/turte/share/ament_index
+[1.557s] creating /home/anavale/ros2_ws/install/turte/share/ament_index/resource_index
+[1.557s] creating /home/anavale/ros2_ws/install/turte/share/ament_index/resource_index/packages
+[1.557s] copying resource/turte -> /home/anavale/ros2_ws/install/turte/share/ament_index/resource_index/packages
+[1.558s] copying package.xml -> /home/anavale/ros2_ws/install/turte/share/turte
+[1.558s] running install_egg_info
+[1.559s] Copying ../../build/turte/turte.egg-info to /home/anavale/ros2_ws/install/turte/lib/python3.10/site-packages/turte-0.0.0-py3.10.egg-info
+[1.561s] running install_scripts
+[1.590s] writing list of installed files to '/home/anavale/ros2_ws/build/turte/install.log'
+[1.646s] Invoked command in '/home/anavale/ros2_ws/src/turte' returned '0': PYTHONPATH=/home/anavale/ros2_ws/build/turte/prefix_override:/home/anavale/ros2_ws/install/turte/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turte build --build-base /home/anavale/ros2_ws/build/turte/build install --record /home/anavale/ros2_ws/build/turte/install.log --single-version-externally-managed install_data

@@ -1,0 +1,32 @@
+running egg_info
+creating ../build/turte/turte.egg-info
+writing ../build/turte/turte.egg-info/PKG-INFO
+writing dependency_links to ../build/turte/turte.egg-info/dependency_links.txt
+writing entry points to ../build/turte/turte.egg-info/entry_points.txt
+writing requirements to ../build/turte/turte.egg-info/requires.txt
+writing top-level names to ../build/turte/turte.egg-info/top_level.txt
+writing manifest file '../build/turte/turte.egg-info/SOURCES.txt'
+reading manifest file '../build/turte/turte.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/turte/turte.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/anavale/ros2_ws/src/build/turte/build
+creating /home/anavale/ros2_ws/src/build/turte/build/lib
+creating /home/anavale/ros2_ws/src/build/turte/build/lib/turte
+copying turte/__init__.py -> /home/anavale/ros2_ws/src/build/turte/build/lib/turte
+running install
+running install_lib
+creating /home/anavale/ros2_ws/src/install/turte/lib/python3.10/site-packages/turte
+copying /home/anavale/ros2_ws/src/build/turte/build/lib/turte/__init__.py -> /home/anavale/ros2_ws/src/install/turte/lib/python3.10/site-packages/turte
+byte-compiling /home/anavale/ros2_ws/src/install/turte/lib/python3.10/site-packages/turte/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/anavale/ros2_ws/src/install/turte/share/ament_index
+creating /home/anavale/ros2_ws/src/install/turte/share/ament_index/resource_index
+creating /home/anavale/ros2_ws/src/install/turte/share/ament_index/resource_index/packages
+copying resource/turte -> /home/anavale/ros2_ws/src/install/turte/share/ament_index/resource_index/packages
+copying package.xml -> /home/anavale/ros2_ws/src/install/turte/share/turte
+running install_egg_info
+Copying ../build/turte/turte.egg-info to /home/anavale/ros2_ws/src/install/turte/lib/python3.10/site-packages/turte-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/anavale/ros2_ws/src/build/turte/install.log'
